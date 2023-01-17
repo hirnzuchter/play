@@ -13,3 +13,5 @@ I leave such things to be decided upon by the user.
 - Wordle
 - Solitaire
 - Monopoly
+
+If you have any questions or would like to collaborate, contact me at sactoa@gmail.com.
